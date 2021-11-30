@@ -3,7 +3,7 @@ import { useContext } from "react";
 import { UserContext } from "../lib/context";
 
 type Props = {
-  fallback?: boolean;
+  fallback?: JSX.Element;
   children: React.ReactNode;
 };
 
