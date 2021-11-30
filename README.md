@@ -1,6 +1,7 @@
 ## Next.js + Firebase - The Full Course
 
-Major differenes from base fireship.io project
+Major differences from base fireship.io project
 
-- 🔥 Uses Version 9 of the Firebase SDK
-- 📰 Most files are typescript
+- 🔥 Uses Firebase SDK Version 9
+- 📰 Typescript
+
